@@ -1,5 +1,5 @@
 ### 
-*  👋 Hi, I am Mikheil Makasarashvili a Junior Front-End / React Developer
+*  👋 Hi, I am Mikheil Makasarashvili a Junior Frontend Developer
 *  📜 I am a certified "Information Technology Specialist in JavaScript"
 *  💼 I am looking for Front-End Development job opportunities
 *  🌐 Personal Website: https://mikheil-makasarashvili.vercel.app/
